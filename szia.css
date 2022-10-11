@@ -9,10 +9,12 @@ h1{
     text-align: center;
 }
 
-#kep{
-    height: 350px;
+.kep{
+    width: 299px;
 }
 
-#kep2{
-    width: 300px;
-}
+
+
+.szia {
+    width: 500px;
+} 
