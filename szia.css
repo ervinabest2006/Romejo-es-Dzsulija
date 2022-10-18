@@ -15,9 +15,29 @@ h1{
 
 
 
-.szia {
-    width: 500px;
+#video1{
+    width: 200px;
+    top: 1000px;
+    left: 500px;
 } 
 a{
     text-align: center;
+}
+
+#csok{
+    background-color: black;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+#erkelykep{
+    background-color: black;
+    position: absolute;
+    top: 550px;
+    left: 20px;
+}
+#mulatósmuzsika{
+    position: absolute;
+    top: 749px;
+    left: 20px;
 }
